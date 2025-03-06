@@ -1,4 +1,4 @@
-##include <stdio.h>
+#include <stdio.h>
 
 int main(){    //definindo as variaveis
 char estado1[50], codigo1[50], cidade1[50], estado2[50], codigo2[50], cidade2[50];
